@@ -1,2 +1,2 @@
 # crud-fs
-True Power is Create, Read, Update and Delete.
+Part of https://github.com/neil-yoga/crud-true-power
